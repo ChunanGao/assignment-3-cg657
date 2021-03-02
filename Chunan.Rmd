@@ -1,0 +1,25 @@
+---
+title: "Chunan"
+author: "Chunan Gao"
+date: "3/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### About Me
+
+#### Major & Field
+* I am a master of regional planning candidate!
+* Interested in mapping and spatial analysis.
+
+#### Other Info
+* I am from a seaside city in China.
+* I have so much love for snow, and that's why I am here at Ithaca.
+* I like traveling and photographing ^^
+
+![*So much love for city night view*](https://images.fineartamerica.com/images-medium-large-5/tokyo-night-view-takao-kataoka.jpg)
+
