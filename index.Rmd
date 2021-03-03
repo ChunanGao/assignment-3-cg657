@@ -1,7 +1,7 @@
 ---
 title: "CNTheorem"
-author: "Chunan Gao"
-date: "   "
+author: 
+date:
 output: html_document
 ---
 
