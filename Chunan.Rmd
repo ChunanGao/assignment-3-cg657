@@ -2,10 +2,15 @@
 title: "Chunan"
 author: "Chunan Gao"
 date: "   "
-output:  
-  html_document:  
-    toc: true  
-    toc_float: true 
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    theme: moon
+    highlight: monochrome
 ---
 
 ```{r setup, include=FALSE}
