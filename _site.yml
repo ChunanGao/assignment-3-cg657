@@ -2,16 +2,17 @@ name: "CNTheorem"
 navbar:
   title: "CNTheorem"
   left:
-    - text: "CNTheorem"
+    - text: "Home"
       href: index.html
     - text: "Chunan"
       href: Chunan.html
     - text: "Liz's Publications"
       href: liz.html
+      
 output_dir: "."
 output:
   html_document:
-    theme: moon
-    highlight: monochrome
+    theme: cerulean
+    highlight: textmate
     toc: true 
     toc_float: true 
