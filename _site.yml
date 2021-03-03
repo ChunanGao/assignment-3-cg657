@@ -1,5 +1,6 @@
-output_dir: "."
+name: "CNTheorem"
 navbar:
+  title: "CNTheorem"
   left:
     - text: "CNTheorem"
       href: index.html
@@ -7,3 +8,10 @@ navbar:
       href: Chunan.html
     - text: "Liz's Publications"
       href: liz.html
+output_dir: "."
+output:
+  html_document:
+    theme: moon
+    highlight: monochrome
+    toc: true 
+    toc_float: true 

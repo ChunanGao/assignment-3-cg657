@@ -2,15 +2,7 @@
 title: "Chunan"
 author:
 date: 
-output:
-  html_document:
-    toc: true
-    toc_depth: 2
-    toc_float:
-      collapsed: false
-      smooth_scroll: false
-    theme: moon
-    highlight: monochrome
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
