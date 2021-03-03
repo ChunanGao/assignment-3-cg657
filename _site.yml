@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "CNTheorem"
+      href: index.html
+    - text: "Chunan"
+      href: Chunan.html
+    - text: "Liz's Publications"
+      href: liz.html
